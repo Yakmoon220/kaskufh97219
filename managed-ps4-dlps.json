@@ -41,6 +41,49 @@
           "url": "https://1fichier.com/?u1ka0o8ksqtknlgengem&e=1793055033&s=8okuFc3_TyJG24RiXXMPxkX6gRJasqubJLQYva-hrjY"
         }
       ]
+    },
+    {
+      "titleId": "PPSA31291",
+      "title": "TEKKEN 3",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/TEKKEN_3.avif",
+      "description": "Tags: PPSA31291, v01.000.001, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadLinks": [
+        {
+          "name": "Dump - Data",
+          "url": "https://link-vault.org/c/Ex3NJnEV#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/Ex3NJnEV#FileKeeper"
+        },
+        {
+          "name": "Dump - Akia",
+          "url": "https://link-vault.org/c/Ex3NJnEV#AkiraBox"
+        },
+        {
+          "name": "Dump - Viki",
+          "url": "https://link-vault.org/c/Ex3NJnEV#VikingFile"
+        },
+        {
+          "name": "Akia",
+          "url": "https://link-vault.org/c/gX9kk-FJ#AkiraBox"
+        },
+        {
+          "name": "Viki",
+          "url": "https://link-vault.org/c/gX9kk-FJ#VikingFile"
+        },
+        {
+          "name": "Data",
+          "url": "https://link-vault.org/c/gX9kk-FJ#DataNodes"
+        },
+        {
+          "name": "Filek",
+          "url": "https://link-vault.org/c/gX9kk-FJ#FileKeeper"
+        }
+      ],
+      "sizeBytes": 1073741824
     }
   ]
 }
