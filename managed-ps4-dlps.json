@@ -1,0 +1,30 @@
+{
+  "name": "DLPSGame PS4",
+  "version": 1,
+  "packages": [
+    {
+      "titleId": "CUSA01764",
+      "title": "Batman Arkham Knight Premium Edition",
+      "createdAt": "N/A",
+      "category": "game",
+      "posterUrl": "https://2.bp.blogspot.com/-pa2JUL32n2Y/WoVJju2D6oI/AAAAAAAAKq8/4zHfhSZXxeInTvsH4a8m-jU14OQr_z7JACLcBGAs/s1600/3.jpg",
+      "originalPosterUrl": "https://2.bp.blogspot.com/-pa2JUL32n2Y/WoVJju2D6oI/AAAAAAAAKq8/4zHfhSZXxeInTvsH4a8m-jU14OQr_z7JACLcBGAs/s1600/3.jpg",
+      "description": "Region: USA",
+      "downloadSource": "https://dlpsgame.com/batman-arkham-knight-ps4-download-free/",
+      "downloadLinks": [
+        {
+          "name": "Game - Akirabox",
+          "url": "https://akirabox.to/RMKGJkyD1m1o/file"
+        },
+        {
+          "name": "Update 1.18 (5.05+) - Akirabox",
+          "url": "https://akirabox.to/vgKGxo8V9z8Q/file"
+        },
+        {
+          "name": "All DLC - Akirabox",
+          "url": "https://akirabox.to/EL73gRMqKm9B/file"
+        }
+      ]
+    }
+  ]
+}
