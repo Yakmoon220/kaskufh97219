@@ -39,10 +39,105 @@
         {
           "name": "Game - Akirabox",
           "url": "https://akirabox.to/gXeGO4qAmAa7/file"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA16742 ",
+      "title": "It Takes Two",
+      "createdAt": "N/A",
+      "category": "game",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2YyMDg4YzctMWFlYy00YWNhLWFkNDQtOTZlZjBkMDU5YTdmXkEyXkFqcGc@._V1_.jpg",
+      "originalPosterUrl": "https://m.media-amazon.com/images/M/MV5BM2YyMDg4YzctMWFlYy00YWNhLWFkNDQtOTZlZjBkMDU5YTdmXkEyXkFqcGc@._V1_.jpg",
+      "description": "Region: USA",
+      "downloadSource": "https://dlpsgame.com/it-takes-two-ps4-pkg/",
+      "downloadLinks": [
+        {
+          "name": "Game (v1.03)(8.00+) - Akirabox",
+          "url": "https://akirabox.to/b5OzdJWqRmB8/file"
         },
         {
-          "name": "Update 1.07 (6.50+) + DLC - Akirabox",
-          "url": "https://akirabox.to/Z9dzBJRxzk1b/file"
+          "name": "Update 1.03 (5.05/6.72/7.xx) - Akirabox",
+          "url": "https://akirabox.to/LJlGn1DpAz15/file"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA34384",
+      "title": "God of War Ragnarok",
+      "createdAt": "N/A",
+      "category": "game",
+      "posterUrl": "https://romsfun.com/wp-content/uploads/2024/07/God-Of-War-Ragnarok.jpg",
+      "originalPosterUrl": "https://romsfun.com/wp-content/uploads/2024/07/God-Of-War-Ragnarok.jpg",
+      "description": "Region: USA",
+      "downloadSource": "https://dlpsgame.com/god-of-war-ragnarok-ps4-pkg/",
+      "downloadLinks": [
+        {
+          "name": "Game - Akirabox",
+          "url": "https://akirabox.to/qw1zerEB0GXy/file"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA00663",
+      "title": "Assassin's Creed: Unity",
+      "createdAt": "N/A",
+      "category": "game",
+      "posterUrl": "https://romsfun.com/wp-content/uploads/2021/04/1618735558-a08dc645-bec4-486d-9d39-43ec2cf6b4e9.jpg",
+      "originalPosterUrl": "https://romsfun.com/wp-content/uploads/2021/04/1618735558-a08dc645-bec4-486d-9d39-43ec2cf6b4e9.jpg",
+      "description": "Region: USA",
+      "downloadSource": "https://dlpsgame.com/assassins-creed-unity-free-ps4-pkg/",
+      "downloadLinks": [
+        {
+          "name": "Game - Rootz",
+          "url": "https://rootz.so/d/1UjCMa"
+        {
+          "name": "Update 1.06 (Fix 5.05 / 6.72 / 7.02 / 7.55 / 9.00 / 11.00) - Rootz",
+          "url": "https://rootz.so/d/18R2lE"
+        {
+          "name": "DLC - Rootz",
+          "url": "https://rootz.so/d/wLUAa"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA05625",
+      "title": "Assassins Creed Origins",
+      "createdAt": "N/A",
+      "category": "game",
+      "posterUrl": "https://romsfun.com/wp-content/uploads/2019/11/assassins-creed-origins-ps4.jpg",
+      "originalPosterUrl": "https://romsfun.com/wp-content/uploads/2019/11/assassins-creed-origins-ps4.jpg",
+      "description": "Region: EUR",
+      "downloadSource": "https://dlpsgame.com/marvels-spider-man-miles-morales-ps4-pkg/",
+      "downloadLinks": [
+        {
+          "name": "Game - Akirabox",
+          "url": "https://akirabox.to/dkD3YqXD73LQ/file"
+        {
+          "name": "Update 1.61 (5.05+) - Akirabox",
+          "url": "https://akirabox.to/9QWmplx0dmEB/file"
+        {
+          "name": "DLC + Audio Pack (@DUPLEX) - Akirabox",
+          "url": "https://akirabox.to/ZvqzlRDAKmaD/file"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA08829 ",
+      "title": "Call of Duty Modern Warfare",
+      "createdAt": "N/A",
+      "category": "game",
+      "posterUrl": "https://m.media-amazon.com/images/I/81DjLMYADwL._AC_UF894,1000_QL80_.jpg",
+      "originalPosterUrl": "https://m.media-amazon.com/images/I/81DjLMYADwL._AC_UF894,1000_QL80_.jpg",
+      "description": "Region: USA",
+      "downloadSource": "https://dlpsgame.com/call-of-duty-modern-warfare-2019-ps4-pkg/",
+      "downloadLinks": [
+        {
+          "name": "Game - Akirabox",
+          "url": "https://akirabox.to/APVmaoB5zXo8/file"
+        {
+          "name": "Update 1.67 (Fix 5.05/6.72/7.02/7.55/9.00+) - Akirabox",
+          "url": "https://akirabox.to/9AqGQolr3Mn6/file"
         }
       ]
     }
