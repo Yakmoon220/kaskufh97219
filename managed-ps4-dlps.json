@@ -69,12 +69,24 @@
       "category": "game",
       "posterUrl": "https://romsfun.com/wp-content/uploads/2024/07/God-Of-War-Ragnarok.jpg",
       "originalPosterUrl": "https://romsfun.com/wp-content/uploads/2024/07/God-Of-War-Ragnarok.jpg",
-      "description": "Region: USA",
+      "description": "Region: EUR",
       "downloadSource": "https://dlpsgame.com/god-of-war-ragnarok-ps4-pkg/",
       "downloadLinks": [
         {
           "name": "Game - Akirabox",
-          "url": "https://akirabox.to/qw1zerEB0GXy/file"
+          "url": "https://akirabox.to/Pbe3Px7nY3lX/file"
+        },
+        {
+          "name": "Update 6.05 (Fix 5.05/6.72/7.xx) - Akirabox",
+          "url": "https://akirabox.to/0rpmvqqvyGRg/file"
+        },
+        {
+          "name": "All DLC Deluxe (@Fugazi) - Akirabox",
+          "url": "https://akirabox.to/9QWmpQ5OX3EB/file"
+        },
+        {
+          "name": "DLC Valhalla - Akirabox",
+          "url": "https://akirabox.to/ex5z2llQbmKq/file"
         }
       ]        
     },
